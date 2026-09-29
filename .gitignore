@@ -1,0 +1,7 @@
+# Compiled binaries and objects
+*.exe
+*.o
+*.obj
+
+# Document files
+*.pdf
